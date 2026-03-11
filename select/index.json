@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "ハイウェイ＜Alternative＞",
+  "base_artist": "くるり",
+  "createdAt": "2026-03-11T20:31:04.756690Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ハイウェイ <Alternative>",
+      "artist": "くるり",
+      "has_synced": true,
+      "path": "select/01_ハイウェイ__Alternative_くるり.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ハイウェイ <Alternative>",
+      "artist": "Quruli",
+      "has_synced": true,
+      "path": "select/02_ハイウェイ__Alternative_Quruli.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ハイウェイ<Alternative>",
+      "artist": "くるり",
+      "has_synced": false,
+      "path": "select/pl_01_ハイウェイ_Alternative_くるり.txt"
+    }
+  ]
+}
